@@ -1,0 +1,39 @@
+
+
+
+What is the DOM?
+The document object model, it's anything on the page of the browser. The hierarchy of the DOM is HTML. 
+
+
+List three methods to manipulate the DOM.
+
+getElementById 
+getElementsByTagName
+innerHTML 
+
+
+
+What is an asynchronous call?
+It's when a code is executed immidiately, and does not have to wait for every part of the javascript to be finished. 
+
+
+
+Briefly explain what the sources tab in Chromes Developers Tools does.
+It lets you edit JS and debug code.
+
+
+
+What is a JavaScript promise?
+Its an object that is waiting for the asynchronous call to be finished or not. 
+
+
+What is an API?
+Application Programming Interface, it's a form of server where you get data responses by requests. 
+
+What is a JavaScript Event?
+It is when the user is interacting with the page in a way that executes code/ calls functions. 
+
+
+
+What is event bubbling?
+When an event is propegating and inherits values from parents events and becomes unstable. 
